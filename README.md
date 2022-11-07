@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ... **Anything**
 
-- 📫 Connect with Me : **https://www.instagram.com/satish__prajapati_/**
+- 📫 Check it out My Website : **https://satish-webdesign-project-1a010f.webflow.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
