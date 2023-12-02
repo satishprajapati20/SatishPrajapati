@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishprajapati20&label=Profile%20views&color=0e75b6&style=flat" alt="satishprajapati20"/> </p>
 
-- 🔭 I’m currently working on **ReactJS,NodeJS and MongoDB**
+- 🔭 I’m currently working on **Blazor Webassembly with .Net**
 
 - ⚡ Fun fact **I Love to Travel & Code**
 
