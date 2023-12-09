@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 <h1 align="center">Hello 👋, I'm Satish Prajapati!</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
